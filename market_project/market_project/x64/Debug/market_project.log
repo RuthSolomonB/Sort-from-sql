@@ -1,0 +1,6 @@
+﻿  market_project.cpp
+C:\Users\ruths\source\repos\market_project\market_project\market_project.cpp(197,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ruths\source\repos\market_project\market_project\market_project.cpp(209,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ruths\source\repos\market_project\market_project\market_project.cpp(223,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ruths\source\repos\market_project\market_project\market_project.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  market_project.vcxproj -> C:\Users\ruths\source\repos\market_project\x64\Debug\market_project.exe
